@@ -39,5 +39,5 @@ Algunos **consejos** para las tomas de video:
 - Si queréis hacer alguna toma en la que salgan ellos/as, por ejemplo presentándose, podéis preguntar si les apetece, pedirles permiso y hacer la toma en algún momento de pausa 
 - Si alguno/ de vosotros/as no quiere salir en ningún video (puesto que luego serán colgados en internet), que avise a todo el grupo.
 
-En este documento se describe con detalle cómo elaborar un vídeo de divulgación científica. 
+En [este](https://github.com/aprendiendo-cosas/A_video_gesteco/raw/main/biblio/Manual-basico-de-video-cientifico_Ago.pdf) documento se describe con detalle cómo elaborar un vídeo de divulgación científica. 
 
