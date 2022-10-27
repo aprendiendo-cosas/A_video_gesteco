@@ -41,3 +41,40 @@ Algunos **consejos** para las tomas de video:
 
 En [este](https://github.com/aprendiendo-cosas/A_video_gesteco/raw/main/biblio/Manual-basico-de-video-cientifico_Ago.pdf) documento se describe con detalle cómo elaborar un vídeo de divulgación científica. 
 
+Una vez que tengáis listo el material, podéis subirlo a cualquier plataforma de intercambio de archivos y luego enviar el enlace de descarga a Elisa ([es2otroe@uco.es](mailto:es2otroe@uco.es)) y a Curro ([fjbonet@uco.es](mailto:fjbonet@uco.es)). 
+
+
+
+## Rúbrica que se usará para evaluar el vídeo presentado
+
+
+
+Para evaluar el desempeño de los grupos de estudiantes se usarán los siguientes criterios. Cada criterio consta de una serie de niveles que describen su grado de satisfacción:
+
++ **Incorporación de conceptos propios de la ecología (25% de la nota). **Se refiere a la medida en la que el vídeo incorpora los conceptos ecológicos que sustentan el tema en cuestión. Ej. sucesión ecológica, resiliencia, etc.
+  + No hay ningún concepto ecológico o los que están no se justifican adecuadamente (0 puntos)
+  + Incorpora de manera justificada 1 concepto ecológico (4 puntos).
+  + Incorpora de manera justificada 2 conceptos ecológicos (8 puntos).
+  + Incorpora de manera justificada 3 conceptos ecológicos (10 puntos).
++ **Reflexión crítica sobre los retos de gestión (25% de la nota).** Este criterio incide en la forma en la que el vídeo refleja una reflexión crítica sobre cómo se gestionan los ecosistemas del ámbito temático en cuestión. Se trata de reflexionar (pensar y discutir), no de opinar o de describir hechos aislados (Ej. visitamos tal zona)
+
+  + No se aborda ningún reto de gestión (0 puntos).
+  + Descripción anecdótica de los retos de gestión (no hay reflexión) (4 puntos).
+  + Se describe de forma crítica algún reto de gestión (8 puntos).
+  + Se describen de forma crítica los retos de gestión y su evolución temporal (pasado y futuro) (10 puntos).
++ **Propuestas de mejora de la gestión. (25% de la nota)** Este último criterio temático evalúa en qué medida el vídeo incluye propuestas de gestión originales y realistas.
+  + No hay ninguna propuesta (0 puntos).
+  + Se incorpora alguna propuesta sin justificar adecuadamente (4 puntos).
+  + Se incorporan las propuestas que se comentaron durante la salida (8 puntos).
+  + Además, se añaden propuestas originales elaboradas por los estudiantes (10 puntos).
++ **Estructura del vídeo (12.5% de la nota)**. Este criterio evalúa en qué medida el vídeo tiene una estructura compatible con la propuesta por los profesores. 
+  + El vídeo no tiene una estructura clara (0 puntos).
+  + El vídeo no se ciñe a la estructura propuesta (4 puntos).
+  + El vídeo se ciñe a la estructura propuesta (8 puntos).
+  + Lo has hecho a tu aire, pero mola (10 puntos).
+ + **Edición del vídeo (12.5% de la nota)**. Aquí se evalúan los aspectos técnicos de edición del vídeo.
+    + Es feo/cutre. Recomendamos ver más tik-tok (0 puntos)
+    + Se parece a un powerpoint animado. Muchas fotos y poco vídeo (4 puntos).
+    + Combina bien los recursos gráficos, pero podría mejorar el estilo (8 puntos).
+    + Es tan bonito que podríamos enviarlo a un festival de cortometrajes (10 puntos).
+
