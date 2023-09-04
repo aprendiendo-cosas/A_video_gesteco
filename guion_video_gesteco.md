@@ -1,30 +1,56 @@
 # Guión de la actividad "vídeo colaborativo sobre retos de la gestión de ecosistemas"
 
 
-> + **_Versión_**: 2022-2023
+> + **_Versión_**: 2023-2024
 > + **_Asignatura (grado)_**: Gestión de ecosistemas (CCAA)
 
 
 ## Objetivos docentes
-Los **objetivos** del proceso de trabajo colaborativo que os proponemos para afianzar los conocimientos adquiridos en estas prácticas y para evaluar vuestro desempeño son:
+Esta actividad docente tiene los siguientes objetivos
 
-1. que profundicéis en al menos una de las paradas/temas que abordaremos
-2. que reflexionéis sobre los retos que enfrentan los ecosistemas y su gestión en cada contexto
-3. que elaboréis propuestas de mejora para la gestión
++ Disciplinares (relacionados con el contenido temático de la asignatura):
+
+  + Profundizar en los conocimientos adquiridos sobre un ámbito temático de la gestión de ecosistemas (ej. gestión cinegética, forestal, especies amenazadas, etc.).
+  + Experimentar la complejidad inherente de trasladar las teorías científicas al proceso de toma de decisiones.
+  + Interactuar en primera persona con profesionales encargados de la gestión de distintos ámbitos de los ecosistemas de la zona de estudio.
+  + Reflexionar sobre los retos que enfrentan los ámbitos temáticos analizados.
+  + Proponer mejoras para la gestión de dichos ámbitos temáticos. 
+
++ Instrumentales (relacionados con competencias transversales):
+
+  + Mejorar las habilidades de trabajo en equipo.
+
+  + Mejorar las competencias de manejo de herramientas digitales (información ambiental, herramientas multimedia, etc.)
+
+  + Aplicar los conocimientos adquiridos para la búsqueda de literatura científica e informes de gestión del territorio.
+
+    
 
 ## Material a preparar
 
-Como trabajo resultante de estas prácticas haréis un **video de 7-10 minutos** por grupo, que luego colgaremos en la web de las prácticas y serán difundidos en redes sociales.
+Para satisfacer los objetivos anteriores, los estudiantes se agruparán de 5 en 5 y prepararán un vídeo de unos **7-10** minutos de duración sobre uno de los siguientes ámbitos temáticos que serán abordados durante la excursión de los días 2-4 de noviembre:
 
-
++ Gestión de pinares de repoblación.
++ Gestión de bosques de *Quercus*
++ Gestión de la dehesa.
++ Gestión de sistemas dulceacuícolas.
++ Gestión de agroecosistemas.
++ Gestión cinegética.
++ Gestión ganadera.
++ [se ampliará la lista en función del número de grupos de estudiantes involucrados]
 
 El video deberá tener la siguiente **estructura**:
 
-- Dónde estamos: presentación del nombre y ubicación geográfica
+- Dónde estamos: presentación del nombre y ubicación geográfica. Importancia del ámbito de gestión seleccionado en la zona en cuestión.
 - Contexto biofísico: descripción ecológica/geológica de la zona, usos del suelo, vegetación dominante…
-- Gestión: descripción del tipo de gestión que se hace (conservación, usos recreativos -cuáles, ganadería, agricultura, minería, pesca, extracción de madera…) y del modelo o modelos (extensivo, intensivo, en regadío/secano, conservación más o menos estricta…).
-- Retos: descripción de los principales retos socio-ecológicos que enfrenta la zona y si se están enfrentando, cómo se está haciendo, reflexionando sobre las medidas a diferentes escalas (espaciales, temporales y de gobernanza)
-- Propuestas: propuesta de medidas, acciones o estrategias, a distintas escalas, para mejorar la gestión de cara a los retos que enfrenta la zona, incrementando la sostenibilidad y resiliencia socioecológica de la gestión. 
+- Gestión:
+  - Descripción del tipo de gestión que se hace (conservación, usos recreativos -cuáles, ganadería, agricultura, minería, pesca, extracción de madera…) y del modelo o modelos (extensivo, intensivo, en regadío/secano, conservación más o menos estricta…).
+  - Relación de los métodos de gestión descritos con la ciencia de la ecología. Se indagará el origen de las técnicas de gestión propuestas. Se describirán los posibles errores teóricos en el planteamiento de la gestión del ámbito temático en cuestión.
+
+- Retos: descripción de los principales retos socio-ecológicos que enfrenta el o los métodos de gestión descritos para el ámbito temático seleccionado. También se discuitirán si se están enfrentando, cómo se está haciendo, reflexionando sobre las medidas a diferentes escalas (espaciales, temporales y de gobernanza).
+- Propuestas: propuesta de medidas, acciones o estrategias, a distintas escalas, para mejorar la gestión del ámbito temático concreto con objeto de incrementar la sostenibilidad y resiliencia socioecológica de la gestión. 
+
+Para preparar el vídeo los estudiantes contarán con el material audiovisual que se genere en cada una de las paradas de la salida de campo. En cada parada habrá un profesional de la gestión que nos hablará sobre distintos ámbitos de gestión (ej. gestión forestal, cinegética, etc.). Además, los profesores aportarán un dossier a modo de "hilo del que tirar" para que los estudiantes comiencen el proceso de indagación. Por último, se realizará una sesión práctica después de la salida para que, a modo de tutoría, los estudiantes trabajen de manera colaborativa con los profesores. 
 
 
 
@@ -41,13 +67,13 @@ Algunos **consejos** para las tomas de video:
 
 En [este](https://github.com/aprendiendo-cosas/A_video_gesteco/raw/main/biblio/Manual-basico-de-video-cientifico_Ago.pdf) documento se describe con detalle cómo elaborar un vídeo de divulgación científica. 
 
-Una vez que tengáis listo el material, podéis subirlo a cualquier plataforma de intercambio de archivos y luego enviar el enlace de descarga a Elisa ([es2otroe@uco.es](mailto:es2otroe@uco.es)) y a Curro ([fjbonet@uco.es](mailto:fjbonet@uco.es)). 
+Una vez que tengáis listo el material, podéis subirlo a cualquier plataforma de intercambio de archivos y luego enviar el enlace de descarga a Curro ([fjbonet@uco.es](mailto:fjbonet@uco.es)). 
 
 
 
-## Rúbrica que se usará para evaluar el vídeo presentado
+## Rúbrica que se usará para calificar el vídeo presentado
 
-
+**ESTA RÚBRICA ES LA DEL CURSO PASADO. HAY QUE REPENSARLA BIEN**
 
 Para evaluar el desempeño de los grupos de estudiantes se usarán los siguientes criterios. Cada criterio consta de una serie de niveles que describen su grado de satisfacción:
 
