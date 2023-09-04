@@ -77,4 +77,3 @@ Para evaluar el desempeño de los grupos de estudiantes se usarán los siguiente
     + Se parece a un powerpoint animado. Muchas fotos y poco vídeo (4 puntos).
     + Combina bien los recursos gráficos, pero podría mejorar el estilo (8 puntos).
     + Es tan bonito que podríamos enviarlo a un festival de cortometrajes (10 puntos).
-
