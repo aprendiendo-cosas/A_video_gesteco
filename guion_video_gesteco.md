@@ -26,9 +26,9 @@ Esta actividad docente tiene los siguientes objetivos
 
     
 
-## Material a preparar
+## Contenidos del vídeo
 
-Para satisfacer los objetivos anteriores, los estudiantes se agruparán de 5 en 5 y prepararán un vídeo de unos **7-10** minutos de duración sobre uno de los siguientes ámbitos temáticos que serán abordados durante la excursión de los días 2-4 de noviembre:
+Para satisfacer los objetivos anteriores, los estudiantes trabajarán en equipo y prepararán un vídeo de unos **7-10** minutos de duración sobre uno de los siguientes ámbitos temáticos que serán abordados durante la excursión de los días 2-4 de noviembre:
 
 + Gestión de pinares de repoblación.
 + Gestión de bosques de *Quercus*
@@ -39,20 +39,20 @@ Para satisfacer los objetivos anteriores, los estudiantes se agruparán de 5 en 
 + Gestión ganadera.
 + [se ampliará la lista en función del número de grupos de estudiantes involucrados]
 
-El video deberá tener la siguiente **estructura**:
+El video deberá abordar las siguientes cuestiones:
 
-- Dónde estamos: presentación del nombre y ubicación geográfica. Importancia del ámbito de gestión seleccionado en la zona en cuestión.
-- Contexto biofísico: descripción ecológica/geológica de la zona, usos del suelo, vegetación dominante…
-- Gestión:
-  - Descripción del tipo de gestión que se hace (conservación, usos recreativos -cuáles, ganadería, agricultura, minería, pesca, extracción de madera…) y del modelo o modelos (extensivo, intensivo, en regadío/secano, conservación más o menos estricta…).
-  - Relación de los métodos de gestión descritos con la ciencia de la ecología. Se indagará el origen de las técnicas de gestión propuestas. Se describirán los posibles errores teóricos en el planteamiento de la gestión del ámbito temático en cuestión.
-
+- Objetivos de la gestión realizada para el ámbito socioecosistémico en cuestión. Ej. en el caso de las especies amenazadas, el objetivo es evitar su desparición.
+- Descripción de los procedimientos de gestión contempladas por la legislación en Andalucía. Se trata de definir qué tipo de métodos de gestión se llevan a cabo. Ej. en el caso de la caza, un instrumento de gestión es el denominado "plan técnico de caza". Los estudiantes deberán describir de manera general estos procedimientos conectándolos con las disposiciones legales vigentes. No es necesario entrar en mucho detalle aquí. 
+- Relación de los métodos de gestión descritos con la ciencia de la ecología. Se indagará el origen de las técnicas de gestión propuestas. Se describirán los posibles errores o carencias en el planteamiento de la gestión del ámbito temático en cuestión. Ej. La gestión de recursos piscícolas se sustenta en la teoría de explotación de poblaciones biológicas. 
+- Ejemplos de manejo del ámbito temático en cuestión durante la excursión a Cardeña.
 - Retos: descripción de los principales retos socio-ecológicos que enfrenta el o los métodos de gestión descritos para el ámbito temático seleccionado. También se discuitirán si se están enfrentando, cómo se está haciendo, reflexionando sobre las medidas a diferentes escalas (espaciales, temporales y de gobernanza).
 - Propuestas: propuesta de medidas, acciones o estrategias, a distintas escalas, para mejorar la gestión del ámbito temático concreto con objeto de incrementar la sostenibilidad y resiliencia socioecológica de la gestión. 
 
-Para preparar el vídeo los estudiantes contarán con el material audiovisual que se genere en cada una de las paradas de la salida de campo. En cada parada habrá un profesional de la gestión que nos hablará sobre distintos ámbitos de gestión (ej. gestión forestal, cinegética, etc.). Además, los profesores aportarán un dossier a modo de "hilo del que tirar" para que los estudiantes comiencen el proceso de indagación. Por último, se realizará una sesión práctica después de la salida para que, a modo de tutoría, los estudiantes trabajen de manera colaborativa con los profesores. 
+Para preparar el vídeo los estudiantes contarán con el material audiovisual que se genere en cada una de las paradas de la salida de campo. En cada parada habrá un profesional de la gestión que nos hablará sobre distintos ámbitos de gestión (ej. gestión forestal, cinegética, etc.).  También se realizará una sesión práctica antes de la salida para que, a modo de tutoría, los estudiantes trabajen de manera colaborativa con los profesores. La idea es que antes de la salida ya hayan recopilado información los estudiantes y tengan un pequeño plan sobre cómo va a ser su vídeo. 
 
 
+
+## Cómo hacer un vídeo con contenido científico
 
 Algunos **consejos** para las tomas de video:
 
@@ -69,7 +69,34 @@ En [este](https://github.com/aprendiendo-cosas/A_video_gesteco/raw/main/biblio/M
 
 Una vez que tengáis listo el material, podéis subirlo a cualquier plataforma de intercambio de archivos y luego enviar el enlace de descarga a Curro ([fjbonet@uco.es](mailto:fjbonet@uco.es)). 
 
+Por último, a modo de inspiración,  podéis ver a continuación los vídeos que hicieron vuestros compañeros del curso pasado. Dichos vídeos tenían una estructura diferente, así que no toméis el contenido como patrón. Se trata solo de que veais ejemplos de material parecido.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8k0O-M6jdN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe width="560" height="515" src="https://www.youtube.com/embed/80UZDZtKc_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe width="560" height="515" src="https://www.youtube.com/embed/xD9zFO6azpA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe width="560" height="515" src="https://www.youtube.com/embed/UdZxeycUFyY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe width="560" height="515" src="https://www.youtube.com/embed/ZJAqij1RXGw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe width="560" height="515" src="https://www.youtube.com/embed/rXpKOZFmmgk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe width="560" height="515" src="https://www.youtube.com/embed/ZzHCqWVLCKs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe width="560" height="515" src="https://www.youtube.com/embed/-F3PJETCNv8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/b0yOID741qg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## Procedimiento de trabajo en equipo
+
++ extraer algo del trabajo de Sandra Brito
+  + Método tuckman
+  + Entregas parciales.
+  + ¿Descripción del trabajo realizado por cada miembro del equipo? 
+- poner cómo nos coordinaremos vía Teams
+- Quizás una lista de pasos a dar para organizar el vídeo. Poner aquí lo de entregar una "escaleta" del vídeo
 
 ## Rúbrica que se usará para calificar el vídeo presentado
 
