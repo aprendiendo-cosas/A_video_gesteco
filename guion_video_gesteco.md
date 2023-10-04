@@ -28,7 +28,7 @@ Esta actividad docente tiene los siguientes objetivos
 
 ## Contenidos del vídeo
 
-Para satisfacer los objetivos anteriores, los estudiantes trabajarán en equipo y prepararán un vídeo de unos **7-10** minutos de duración sobre uno de los siguientes ámbitos temáticos que serán abordados durante la excursión de los días 2-4 de noviembre:
+Para satisfacer los objetivos anteriores, los estudiantes trabajarán en equipo y prepararán un vídeo de unos 10 minutos de duración sobre uno de los siguientes ámbitos temáticos que serán abordados durante la excursión de los días 2-4 de noviembre:
 
 + Gestión de pinares de repoblación.
 + Gestión de bosques de *Quercus*
@@ -48,11 +48,11 @@ El video deberá abordar las siguientes cuestiones:
 - Retos: descripción de los principales retos socio-ecológicos que enfrenta el o los métodos de gestión descritos para el ámbito temático seleccionado. También se discuitirán si se están enfrentando, cómo se está haciendo, reflexionando sobre las medidas a diferentes escalas (espaciales, temporales y de gobernanza).
 - Propuestas: propuesta de medidas, acciones o estrategias, a distintas escalas, para mejorar la gestión del ámbito temático concreto con objeto de incrementar la sostenibilidad y resiliencia socioecológica de la gestión. 
 
-Para preparar el vídeo los estudiantes contarán con el material audiovisual que se genere en cada una de las paradas de la salida de campo. En cada parada habrá un profesional de la gestión que nos hablará sobre distintos ámbitos de gestión (ej. gestión forestal, cinegética, etc.).  También se realizará una sesión práctica antes de la salida para que, a modo de tutoría, los estudiantes trabajen de manera colaborativa con los profesores. La idea es que antes de la salida ya hayan recopilado información los estudiantes y tengan un pequeño plan sobre cómo va a ser su vídeo. 
+Para preparar el vídeo los estudiantes contarán con el material audiovisual que ellos mismos crearán en cada una de las paradas de la salida de campo. En cada parada habrá un profesional de la gestión que nos hablará sobre distintos ámbitos de gestión (ej. gestión forestal, cinegética, etc.).  También se realizará una sesión práctica antes de la salida para que, a modo de tutoría, los estudiantes trabajen de manera colaborativa con los profesores. La idea es que antes de la salida ya hayan recopilado información los estudiantes y tengan un pequeño plan sobre cómo va a ser su vídeo. 
 
 
 
-## Cómo hacer un vídeo con contenido científico
+## Algunas ideas generales sobre cómo hacer un vídeo con contenido científico
 
 Algunos **consejos** para las tomas de video:
 
@@ -67,11 +67,9 @@ Algunos **consejos** para las tomas de video:
 
 En [este](https://github.com/aprendiendo-cosas/A_video_gesteco/raw/main/biblio/Manual-basico-de-video-cientifico_Ago.pdf) documento se describe con detalle cómo elaborar un vídeo de divulgación científica. 
 
-Una vez que tengáis listo el material, podéis subirlo a cualquier plataforma de intercambio de archivos y luego enviar el enlace de descarga a Curro ([fjbonet@uco.es](mailto:fjbonet@uco.es)). 
-
 Por último, a modo de inspiración,  podéis ver a continuación los vídeos que hicieron vuestros compañeros del curso pasado. Dichos vídeos tenían una estructura diferente, así que no toméis el contenido como patrón. Se trata solo de que veais ejemplos de material parecido.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8k0O-M6jdN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="515" src="https://www.youtube.com/embed/8k0O-M6jdN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <iframe width="560" height="515" src="https://www.youtube.com/embed/80UZDZtKc_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -91,12 +89,35 @@ Por último, a modo de inspiración,  podéis ver a continuación los vídeos qu
 
 ## Procedimiento de trabajo en equipo
 
+Trabajar en equipo no es fácil ni para los estudiantes ni para los profesores. Los estudiantes tienen que ponerse de acuerdo sobre cómo hacer el trabajo y siempre hay conflictos. Algunos quieren o pueden esforzarse más que otros, etc. Suelen darse casos en los que la contribución de cada miembro al trabajo es muy poco equitativa. Para los profesores resulta muy complejo evaluar el aprendizaje individual a partir de un trabajo (supuestamente) generado en equipo. Parece que todo son problemas. Entonces, ¿por qué nos "empeñamos" en fomentar el trabajo en equipo?
+
+La respuesta corta es que trabajar en equipo asegura un aprendizaje más profundo y más amplio porque nos "obliga" a empatizar con los demás miembros del equipo. Esto hace que, de una forma casi mágica, aprendamos con nuestra mente y con la de los demás... 
+
+La respuesta más larga implica conceptos algo más elaborados: El trabajo en equipo fomenta la interdependencia, que es (en mi opinión) una de las formas más elevadas de pasar por el mundo. La interdepencencia es el paradigma del nosotros: nosotros podemos hacerlo, nosotros podemos cooperar, nosotros podemos combinar nuestros talentos y aptitudes para crear juntos algo más importante. Cuando trabajamos en equipo trascendemos nuestra propia identidad y nos hacemos más grandes. Nos hacemos "nosotros" e "intersomos" con los miembros del equipo. Un viejo proverbio dice: "si quieres llegar rápido, ve solo. Si quieres llegar lejos, ve acompañado". Nosotros queremos llegar lejos. Otra cita,, en esta ocasión de origen africano. El término Ubuntu significa "soy porque somos". 
+
+Si conseguimos superar los problemas descritos en el primer párrafo y conformamos equipos bien coordinados, pueden ocurrir cosas como la que se describe en el siguiente vídeo:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kbJcQYVtZMo?si=jTOM29c2Ezr84-dp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Vale, muy bonito y motivante esto de que trabajar en equipo. La pregunta es, ¿cómo se hace? No tengo una respuesta clara
+
+
+- en el trabajo del equipo de tienen que adjuntar los trabajos individuales de cada miembro.
+- la tarea grupal no puede ser igual a la de ninguno de sus miembros y todo el mundo ha de poder decir al menos una aportación que haya hecho a partir de la propia.
+- todo el mundo ha de poder decir al menos una cosa que haya aprendido del trabajo de cada uno de los compañeros.
+
 + extraer algo del trabajo de Sandra Brito
   + Método tuckman
   + Entregas parciales.
   + ¿Descripción del trabajo realizado por cada miembro del equipo? 
 - poner cómo nos coordinaremos vía Teams
 - Quizás una lista de pasos a dar para organizar el vídeo. Poner aquí lo de entregar una "escaleta" del vídeo
+
+## Fecha y forma de entrega
+
+Una vez que tengáis listo el material, podéis subirlo a cualquier plataforma de intercambio de archivos y luego enviar el enlace de descarga a Curro ([fjbonet@uco.es](mailto:fjbonet@uco.es)). 
+
+Entrega de documento de atribuciones. Qué ha hecho quién o quién ha hecho qué. 
 
 ## Rúbrica que se usará para calificar el vídeo presentado
 
