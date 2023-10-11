@@ -3,9 +3,12 @@
 
 > + **_Versión_**: 2023-2024
 > + **_Asignatura (grado)_**: Gestión de ecosistemas (CCAA)
+> + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
+
 
 
 ## Objetivos docentes
+
 Esta actividad docente tiene los siguientes objetivos
 
 + Disciplinares (relacionados con el contenido temático de la asignatura):
@@ -18,26 +21,27 @@ Esta actividad docente tiene los siguientes objetivos
 
 + Instrumentales (relacionados con competencias transversales):
 
-  + Mejorar las habilidades de trabajo en equipo.
+  + Mejorar las habilidades de trabajo en equipo. Para satisfacer este objetivo es importante que leáis [esta](https://raw.githack.com/aprendiendo-cosas/gestion_ecosistemas_CCAA_UCO/main/metodo_trabajo_equipo.html) propuesta de normas para trabajar en equipo. 
 
   + Mejorar las competencias de manejo de herramientas digitales (información ambiental, herramientas multimedia, etc.)
 
   + Aplicar los conocimientos adquiridos para la búsqueda de literatura científica e informes de gestión del territorio.
 
-    
 
-## Contenidos del vídeo
+
+## Trabajo a realizar
 
 Para satisfacer los objetivos anteriores, los estudiantes trabajarán en equipo y prepararán un vídeo de unos 10 minutos de duración sobre uno de los siguientes ámbitos temáticos que serán abordados durante la excursión de los días 2-4 de noviembre:
 
 + Gestión de pinares de repoblación.
-+ Gestión de bosques de *Quercus*
 + Gestión de la dehesa.
-+ Gestión de sistemas dulceacuícolas.
-+ Gestión de agroecosistemas.
++ Gestión de pesca en ríos y embalses. 
++ Gestión del olivar.
 + Gestión cinegética.
 + Gestión ganadera.
-+ [se ampliará la lista en función del número de grupos de estudiantes involucrados]
++ Gestión de especies amenazadas.
+
+Cada uno de los ámbitos temáticos anteriores corresponde a compartimentos o elementos de los socioecosistemas que son manejados mediante distintos procedimientos (apoyados por la legislación vigente). 
 
 El video deberá abordar las siguientes cuestiones:
 
@@ -89,84 +93,48 @@ Por último, a modo de inspiración,  podéis ver a continuación los vídeos qu
 
 
 
-## Metodología de trabajo en equipo
+## Secuencia de acciones propuestas y cronograma
 
-Trabajar en equipo no es fácil ni para los estudiantes ni para los profesores. Los estudiantes tienen que ponerse de acuerdo sobre cómo hacer el trabajo y siempre hay conflictos. Algunos quieren o pueden esforzarse más que otros, etc. Suelen darse casos en los que la contribución de cada miembro al trabajo es muy poco equitativa. Para los profesores resulta muy complejo evaluar el aprendizaje individual a partir de un trabajo (supuestamente) generado en equipo. Parece que todo son problemas. Entonces, ¿por qué nos "empeñamos" en fomentar el trabajo en equipo?
+Para que el trabajo de los equipos fluya adecuadamente es necesario que nos organicemos y tengamos una secuencia de acciones a realizar. Aunque cada equipo es libre de organizarse como considere, os propongo los siguientes pasos. Lógicamente los estudiantes podrán contactar con el profesor al margen de los pasos descritos aquí. Las fechas propuestas son orientativas. Cada grupo se organiza como mejor considere:
 
-La respuesta corta es que trabajar en equipo asegura un aprendizaje más profundo y más amplio porque nos "obliga" a empatizar con los demás miembros del equipo. Esto hace que, de una forma casi mágica, aprendamos con nuestra mente y con la de los demás... 
++ Configuración del equipo. **Fecha límite 14/10/2023.** *Se encargan los estudiantes*.
++ Asignación de un tema a cada equipo. **Fecha límite 16/10/2023.** *Se encarga Curro.*
++ Creación de un equipo en Microsoft Teams con todos los miembros del equipo y con el profesor (bv2bogaf@uco.es). **Fecha límite 19/10/2023.** *Se encargan los estudiantes.*
++ Primera búsqueda preliminar de información. **Fecha límite 19/10/2023**. *Se encargan los estudiantes.*
 
-La respuesta más larga implica conceptos algo más elaborados: El trabajo en equipo fomenta la interdependencia, que es (en mi opinión) una de las formas más elevadas de pasar por el mundo. La interdepencencia es el paradigma del nosotros: nosotros podemos hacerlo, nosotros podemos cooperar, nosotros podemos combinar nuestros talentos y aptitudes para crear juntos algo más importante. Cuando trabajamos en equipo trascendemos nuestra propia identidad y nos hacemos más grandes. Nos hacemos "nosotros" e "intersomos" con los miembros del equipo. Un viejo proverbio dice: "si quieres llegar rápido, ve solo. Si quieres llegar lejos, ve acompañado". Nosotros queremos llegar lejos. Otra cita,, en esta ocasión de origen africano. El término Ubuntu significa "soy porque somos". 
++ Primera reunión para definir objetivos y lluvia de ideas. ***Se hace en sesión de prácticas el día 19/10/2023 con el apoyo del profesor.***
++ Primera propuesta de estructura del vídeo. Se puede describir en un texto (a modo de "escaleta") o bien oralmente. **Fecha límite 27/10/2023**. *Se encargan los estudiantes*.
++ Salida a Cardeña. **2-4 de noviembre**
++ Fase de trabajo de los equipos con asesoramiento a demanda por parte del profesor. **Hasta 14/11/2023. Ese día habrá una sesión práctica presencial para aclarar dudas y presentar resultados parciales**. *Los estudiantes con el apoyo del profesor*.
 
-Si conseguimos superar los problemas descritos en el primer párrafo y conformamos equipos bien coordinados, pueden ocurrir cosas como la que se describe en [este](https://www.youtube.com/watch?v=kbJcQYVtZMo) vídeo:
 
-Vale, muy bonito y motivante esto de que trabajar en equipo. La pregunta es, ¿cómo se hace? Lamentablemente no hay soluciones mágicas. Trabajar bien en equipo es, como tantas otras cosas, algo que se aprende practicando. Pero no basta con una práctica sin más. Debe de estar ordenada y, sobre todo, debemos de ser conscientes de cómo se está desarrollando el proyecto. En las siguientes secciones os propongo un método de trabajo en equipo para la asignatura. Se basa en los principios descritos más arriba y consta de los siguientes elementos:
-
-#### La parte humana
-Trabajar en equipo es, en buena medida, entrenar la empatía. Se trata de construir un producto (vídeo en este caso) combinando las mejores ideas y talentos de un grupo de personas. Solemos creer que nuestras ideas son buenísimas, pero al mismo tiempo nos resulta complejo expresarlas. Así que, de alguna manera, el trabajo en equipo implica poner en práctica asertividad para expresar tus ideas y también empatía para ponerse en la piel del otro. Buena parte del trabajo en equipo consiste en definir modos de comunicación eficaces. De nuevo son palabras bonitas que resultan difícil de llevar a la práctica. A continuación añado una serie de ideas que me han resultado útiles en mi vida. Seguramente habrá más aspectos clave y quizás sobre algo. No os toméis esta sección como algo científico, sino más bien como la experiencia de alguien que lleva en este negocio más tiempo que vosotros:
-
-+ Escucha a tus compañeros de grupo. Pero hazlo para comprender realmente lo que quieren decir. No pienses tanto en la respuesta que vas a dar o en si estás o no de acuerdo con él o ella. Escucha profundamente y luego devuelve un mensaje que le deje claro que lo has entendido.
-+ No juzgues lo que dicen otros. En este sentido juzgar quiere decir asignar atributos negativos o positivos a una idea, opinión o expresión sin disponer de toda la información. Por ejemplo, "vaya idea de bombero has tenido". Eso es un juicio y no es edificante. Ni útil. Es mucho más adecuado decir, "no estoy seguro de la utilidad de lo que propones, ¿puedes explicarlo de nuevo con algún ejemplo".
-+ Cuida el lenguaje. No en el sentido de no decir palabras coloquiales. Me refiero a que es muy importante usar el lenguaje con conciencia. Ser consciente de lo que quieres trasmitir y usar las palabras adecuadas para ello. En es este sentido, las muletillas como "en plan" son falsos amigos que dificultan la comunicación.
-+ No olvides que el objetivo de todo esto es aprender. Cada conversación, cada idea y cada comentario deben de estar orientados a fomentar el aprendizaje de los miembros del grupo. Debéis de asegurarse de que el trabajo en grupo será mucho mejor que cualquier trabajo individual de cada uno de los miembros.
-+ Resolución de conflictos. Siempre hay conflictos cuando interactúan personas. Eso no es malo. Es normal. Lo malo es que no sabemos resolverlos bien. Hacerlo bien implica aplicar los puntos anteriores y aplicar técnicas concretas. Una de ellas es, por ejemplo, adoptar a priori un esquema de gobernanza del grupo en el que se defina cómo se toman decisiones. Por ejemplo, puede haber un coordinador que decida ciertas cosas o que las decisiones se tomen por consenso. Todo esto se debe de decidir antes de empezar a trabajar.
+- Finalización del vídeo y entrega del material. **Fecha límite 08/01/2024**. *Se encargan los estudiantes*
 
 
 
-#### Tecnología como nexo de unión entre los miembros del equipo
+## Material a entregar
 
-Vivimos rodeados de tecnología. En teoría sabemos usarla con soltura para comunicarnos. Pero esa soltura es superficial en realidad. Nos sigue costando trabajo usar la tecnología de manera profunda para elaborar textos, compartir ideas, etc. La tecnología puede ser un catalizador de nuestra creatividad y de nuestro talento. La idea es que, en esta actividad, avancemos en este sentido. De manera más concreta
+Antes de la fecha final indicada más arriba, una persona de cada grupo deberá de entregar el siguiente material. Las entregas se realizarán por correo electrónico (fjbonet@uco.es). 
 
-
-
-
-
-
-
-
-
-
-#### Secuencia de acciones propuestas y cronograma
-
-+ Configuración del equipo de Teams. Nombre molón.
-+ Primera reunión para definir objetivos y lluvia de ideas. Notas de la reunión.
-+ Primera propuesta de estructura del vídeo.
-+ Revisión por parte del profesor.
-+ Asignación de tareas en función de las aptitudes de cada miembro del equipo.
-+ Fase de trabajo individual.
-
-
-- en el trabajo del equipo de tienen que adjuntar los trabajos individuales de cada miembro.
-- la tarea grupal no puede ser igual a la de ninguno de sus miembros y todo el mundo ha de poder decir al menos una aportación que haya hecho a partir de la propia.
-- todo el mundo ha de poder decir al menos una cosa que haya aprendido del trabajo de cada uno de los compañeros.
-
-+ extraer algo del trabajo de Sandra Brito
-  + Método tuckman
-  + Entregas parciales.
-  + ¿Descripción del trabajo realizado por cada miembro del equipo? 
-- poner cómo nos coordinaremos vía Teams
-- Quizás una lista de pasos a dar para organizar el vídeo. Poner aquí lo de entregar una "escaleta" del vídeo
-
-## Fecha y forma de entrega
-
-Una vez que tengáis listo el material, podéis subirlo a cualquier plataforma de intercambio de archivos y luego enviar el enlace de descarga a Curro ([fjbonet@uco.es](mailto:fjbonet@uco.es)). 
-
-+ Entrega de documento de atribuciones. Qué ha hecho quién o quién ha hecho qué. 
++ Enlace con el vídeo generado y subido a OneDrive. Estará dentro de los archivos de Microsoft Team de cada equipo.
++ Documento de texto con el siguiente material:
+  + Bibliografía consultada para generar el vídeo.
+  + Pantallazos de los resultados obtenidos en cada consulta a ChatGPT realizada.
+  + Texto de atribuciones. Cada estudiante deberá de describir brevemente cuál ha sido su contribución al vídeo final.
+  + Descripción de aprendizajes. Cada estudiante deberá de indicar al menos una cosa que haya aprendido de cada uno de sus compañeros de equipo.
 
 
 
 ## Rúbrica que se usará para calificar el vídeo presentado
 
-**ESTA RÚBRICA ES LA DEL CURSO PASADO. HAY QUE REPENSARLA BIEN**
+Para calificar el desempeño de los grupos de estudiantes se usarán los siguientes criterios. Todos los estudiantes de cada equipo tendrán la misma calificación salvo situación excepcional (ej. explicitación de gran simetría en las contribuciones de los estudiantes). Cada criterio consta de una serie de niveles que describen su grado de satisfacción:
 
-Para evaluar el desempeño de los grupos de estudiantes se usarán los siguientes criterios. Cada criterio consta de una serie de niveles que describen su grado de satisfacción:
-
-+ **Incorporación de conceptos propios de la ecología (25% de la nota). **Se refiere a la medida en la que el vídeo incorpora los conceptos ecológicos que sustentan el tema en cuestión. Ej. sucesión ecológica, resiliencia, etc.
++ **Relación de los métodos de gestión descritos con la ciencia de la ecología (25% de la nota). **Se refiere a la medida en la que el vídeo incorpora los conceptos ecológicos que sustentan el tema en cuestión. Ej. sucesión ecológica, resiliencia, etc.
   + No hay ningún concepto ecológico o los que están no se justifican adecuadamente (0 puntos)
   + Incorpora de manera justificada 1 concepto ecológico (4 puntos).
   + Incorpora de manera justificada 2 conceptos ecológicos (8 puntos).
   + Incorpora de manera justificada 3 conceptos ecológicos (10 puntos).
-+ **Reflexión crítica sobre los retos de gestión (25% de la nota).** Este criterio incide en la forma en la que el vídeo refleja una reflexión crítica sobre cómo se gestionan los ecosistemas del ámbito temático en cuestión. Se trata de reflexionar (pensar y discutir), no de opinar o de describir hechos aislados (Ej. visitamos tal zona)
-
++ **Reflexión crítica sobre los retos de gestión (25% de la nota).** Este criterio incide en la forma en la que el vídeo refleja una reflexión crítica sobre cómo se gestiona el ámbito temático en cuestión. Se trata de reflexionar (pensar y discutir), no de opinar o de describir hechos aislados.
   + No se aborda ningún reto de gestión (0 puntos).
   + Descripción anecdótica de los retos de gestión (no hay reflexión) (4 puntos).
   + Se describe de forma crítica algún reto de gestión (8 puntos).
