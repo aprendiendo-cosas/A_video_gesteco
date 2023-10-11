@@ -54,7 +54,7 @@ Para preparar el vídeo los estudiantes contarán con el material audiovisual qu
 
 ## Algunas ideas generales sobre cómo hacer un vídeo con contenido científico
 
-Algunos consejos para las tomas de video:
+Algunos **consejos** para las tomas de video:
 
 - Utilizar la cámara siempre en horizontal
 - Evitar el ruido de fondo, cuidado sobre todo con el viento
@@ -102,10 +102,10 @@ Si conseguimos superar los problemas descritos en el primer párrafo y conformam
 Vale, muy bonito y motivante esto de que trabajar en equipo. La pregunta es, ¿cómo se hace? Lamentablemente no hay soluciones mágicas. Trabajar bien en equipo es, como tantas otras cosas, algo que se aprende practicando. Pero no basta con una práctica sin más. Debe de estar ordenada y, sobre todo, debemos de ser conscientes de cómo se está desarrollando el proyecto. En las siguientes secciones os propongo un método de trabajo en equipo para la asignatura. Se basa en los principios descritos más arriba y consta de los siguientes elementos:
 
 #### La parte humana
-Trabajar en equipo es, en buena medida, entrenar la empatía. Se trata de construir un producto (vídeo en este caso) combinando las mejores ideas y talentos de un grupo de personas. Solemos creer que nuestras ideas son buenísimas, pero al mismo tiempo nos resulta complejo expresarlas. Así que, de alguna manera, el trabajo en equipo implica poner en práctica asertividad para expresar tus ideas y también empatía para ponerse en la piel del otro. Buena parte del trabajo en equipo consiste en definir modos de comunicación eficaces. De nuevo son palabras bonitas que resultan difícil de llevar a la práctica. A continuación añado una serie de ideas que me han resultado útiles en mi vida. Seguramente habrá más aspectos clave y quizás sobre algo. No os toméis esta sección como algo científico, sino más bien como la experiencia de alguien que lleva en este negocio más tiempo que vosotros:
+Trabajar en equipo es, en buena medida, entrenar la empatía. Se trata de construir un producto (vídeo en este caso) combinando las mejores ideas y talentos de un grupo de personas. Solemos creer que nuestras ideas son buenísimas, pero al mismo tiempo nos, resulta complejo expresarlas. Así que, de alguna manera, el trabajo en equipo implica poner en práctica asertividad para expresar tus ideas y también empatía para ponerse en la piel del otro. Buena parte del trabajo en equipo consiste en definir modos de comunicación eficaces. De nuevo son palabras bonitas que resultan difícil de llevar a la práctica. A continuación añado una serie de ideas que me han resultado útiles en mi vida. Seguramente habrá más aspectos clave y quizás sobre algo. No os toméis esta sección como algo científico, sino más bien como la experiencia de alguien que lleva en este negocio más tiempo que vosotros:
 
 + Escucha a tus compañeros de grupo. Pero hazlo para comprender realmente lo que quieren decir. No pienses tanto en la respuesta que vas a dar o en si estás o no de acuerdo con él o ella. Escucha profundamente y luego devuelve un mensaje que le deje claro que lo has entendido.
-+ No juzgues lo que dicen otros. En este sentido juzgar quiere decir asignar atributos negativos o positivos a una idea, opinión o expresión sin disponer de toda la información. Por ejemplo, "vaya idea de bombero has tenido". Eso es un juicio y no es edificante. Ni útil. Es mucho más adecuado decir, "no estoy seguro de la utilidad de lo que propones, ¿puedes explicarlo de nuevo con algún ejemplo".
++ No juzgues lo que dicen otros. En este sentido juzgar quiere decir asignar atributos negativos o positivos a una idea, opinión o epxresión sin disponer de toda la información. Por ejemplo, "vaya idea de bombero has tenido". Eso es un juicio y no es edificante. Ni útil. Es mucho más adecuado decir, "no estoy seguro de la utilidad de lo que propones, ¿puedes explicarlo de nuevo con algún ejemplo".
 + Cuida el lenguaje. No en el sentido de no decir palabras coloquiales. Me refiero a que es muy importante usar el lenguaje con conciencia. Ser consciente de lo que quieres trasmitir y usar las palabras adecuadas para ello. En es este sentido, las muletillas como "en plan" son falsos amigos que dificultan la comunicación.
 + No olvides que el objetivo de todo esto es aprender. Cada conversación, cada idea y cada comentario deben de estar orientados a fomentar el aprendizaje de los miembros del grupo. Debéis de asegurarse de que el trabajo en grupo será mucho mejor que cualquier trabajo individual de cada uno de los miembros.
 + Resolución de conflictos. Siempre hay conflictos cuando interactúan personas. Eso no es malo. Es normal. Lo malo es que no sabemos resolverlos bien. Hacerlo bien implica aplicar los puntos anteriores y aplicar técnicas concretas. Una de ellas es, por ejemplo, adoptar a priori un esquema de gobernanza del grupo en el que se defina cómo se toman decisiones. Por ejemplo, puede haber un coordinador que decida ciertas cosas o que las decisiones se tomen por consenso. Todo esto se debe de decidir antes de empezar a trabajar.
@@ -113,16 +113,6 @@ Trabajar en equipo es, en buena medida, entrenar la empatía. Se trata de constr
 
 
 #### Tecnología como nexo de unión entre los miembros del equipo
-
-Vivimos rodeados de tecnología. En teoría sabemos usarla con soltura para comunicarnos. Pero esa soltura es superficial en realidad. Nos sigue costando trabajo usar la tecnología de manera profunda para elaborar textos, compartir ideas, etc. La tecnología puede ser un catalizador de nuestra creatividad y de nuestro talento. La idea es que, en esta actividad, avancemos en este sentido. De manera más concreta
-
-
-
-
-
-
-
-
 
 
 #### Secuencia de acciones propuestas y cronograma
@@ -150,9 +140,7 @@ Vivimos rodeados de tecnología. En teoría sabemos usarla con soltura para comu
 
 Una vez que tengáis listo el material, podéis subirlo a cualquier plataforma de intercambio de archivos y luego enviar el enlace de descarga a Curro ([fjbonet@uco.es](mailto:fjbonet@uco.es)). 
 
-+ Entrega de documento de atribuciones. Qué ha hecho quién o quién ha hecho qué. 
-
-
+Entrega de documento de atribuciones. Qué ha hecho quién o quién ha hecho qué. 
 
 ## Rúbrica que se usará para calificar el vídeo presentado
 
