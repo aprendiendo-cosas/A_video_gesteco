@@ -33,13 +33,11 @@ Esta actividad docente tiene los siguientes objetivos
 
 Para satisfacer los objetivos anteriores, los estudiantes trabajarán en equipo y prepararán un vídeo de unos 10 minutos de duración sobre uno de los siguientes ámbitos temáticos que serán abordados durante la excursión de los días 2-4 de noviembre:
 
-+ Gestión de pinares de repoblación.
-+ Gestión de la dehesa.
-+ Gestión de pesca en ríos y embalses. 
-+ Gestión del olivar.
-+ Gestión cinegética.
-+ Gestión ganadera.
-+ Gestión de especies amenazadas.
++ Gestión forestal. **Grupo 2**
++ Gestión de pesca. **Grupo 6** 
++ Gestión cinegética. **Grupo 4**
++ Gestión de especies amenazadas. **Grupo 3**
++ Erradicación de especies invasoras. **Grupo 5**
 
 Cada uno de los ámbitos temáticos anteriores corresponde a compartimentos o elementos de los socioecosistemas que son manejados mediante distintos procedimientos (apoyados por la legislación vigente). 
 
