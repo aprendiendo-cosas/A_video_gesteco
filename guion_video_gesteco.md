@@ -34,19 +34,25 @@ Esta actividad docente tiene los siguientes objetivos
 Para satisfacer los objetivos anteriores, los estudiantes trabajarán en equipo y prepararán un vídeo de unos 10 minutos de duración sobre uno de los siguientes ámbitos temáticos que serán abordados durante la excursión de los días 2-4 de noviembre:
 
 + Gestión forestal. **Grupo 2**
-+ Gestión de pesca. **Grupo 6** 
-+ Gestión cinegética. **Grupo 4**
+
 + Gestión de especies amenazadas. **Grupo 3**
+
++ Gestión cinegética. **Grupo 4**
+
 + Erradicación de especies invasoras. **Grupo 5**
 
-Cada uno de los ámbitos temáticos anteriores corresponde a compartimentos o elementos de los socioecosistemas que son manejados mediante distintos procedimientos (apoyados por la legislación vigente). 
++ Gestión de pesca. **Grupo 6** 
+
+  
+
+Cada uno de los ámbitos temáticos anteriores corresponde a compartimentos o elementos de los socioecosistemas que son manejados mediante distintos procedimientos (apoyados por la legislación vigente). La idea es que los estudiantes profundicen sobre el tema concreto que les ha tocado. En la salida a Cardeña veremos casi todos estos ámbitos temáticos, aunque con profundidad diferente. No se trata de analizar cómo se gestionan las especies invadoras, por ejemplo, en Cardeña, sino que el conocimiento adquirido sobre este ámbito temático se pueda utilizar para interpretar lo que pasa sobre este asunto en Cardeña. 
 
 El video deberá abordar las siguientes cuestiones:
 
-- Objetivos de la gestión realizada para el ámbito socioecosistémico en cuestión. Ej. en el caso de las especies amenazadas, el objetivo es evitar su desparición.
-- Descripción de los procedimientos de gestión contempladas por la legislación en Andalucía. Se trata de definir qué tipo de métodos de gestión se llevan a cabo. Ej. en el caso de la caza, un instrumento de gestión es el denominado "plan técnico de caza". Los estudiantes deberán describir de manera general estos procedimientos conectándolos con las disposiciones legales vigentes. No es necesario entrar en mucho detalle aquí. 
+- Objetivos de la gestión realizada para el ámbito socioecosistémico en cuestión. Ej. en el caso de las especies amenazadas, el objetivo es evitar su desparición. No es necesario profundizar mucho sobre este asunto porque ya lo sabemos de otras asignaturas. Se trata solo de nombrarlo.
+- Descripción de los procedimientos de gestión contempladas por la legislación en Andalucía (o en otras regiones siempre que esté justificado). Se trata de definir qué tipo de métodos de gestión se llevan a cabo. Ej. en el caso de la caza, un instrumento de gestión es el denominado "plan técnico de caza". Los estudiantes deberán describir de manera general estos procedimientos conectándolos con las disposiciones legales vigentes. No es necesario entrar en mucho detalle en la legislación. Lo que interesa en este aspecto es establece relaciones entre los procedimientos de gestión y la legislación vigente.
 - Relación de los métodos de gestión descritos con la ciencia de la ecología. Se indagará el origen de las técnicas de gestión propuestas. Se describirán los posibles errores o carencias en el planteamiento de la gestión del ámbito temático en cuestión. Ej. La gestión de recursos piscícolas se sustenta en la teoría de explotación de poblaciones biológicas. 
-- Ejemplos de manejo del ámbito temático en cuestión durante la excursión a Cardeña.
+- Ejemplos de manejo del ámbito temático en cuestión durante la excursión a Cardeña. No es crítico que esta parte sea muy extensa. Si en la salida no vemos con detalle un ámbito temático en concreto, no pasa nada, se menciona menos y ya.
 - Retos: descripción de los principales retos socio-ecológicos que enfrenta el o los métodos de gestión descritos para el ámbito temático seleccionado. También se discuitirán si se están enfrentando, cómo se está haciendo, reflexionando sobre las medidas a diferentes escalas (espaciales, temporales y de gobernanza).
 - Propuestas: propuesta de medidas, acciones o estrategias, a distintas escalas, para mejorar la gestión del ámbito temático concreto con objeto de incrementar la sostenibilidad y resiliencia socioecológica de la gestión. 
 
@@ -56,20 +62,11 @@ Para preparar el vídeo los estudiantes contarán con el material audiovisual qu
 
 ## Algunas ideas generales sobre cómo hacer un vídeo con contenido científico
 
-Algunos consejos para las tomas de video:
 
-- Utilizar la cámara siempre en horizontal
-- Evitar el ruido de fondo, cuidado sobre todo con el viento
-- Hablar lento y claro
-- Apoyar la cámara en firme, evitar temblores
-- Aprovechad cada parada para grabar recursos a diferentes planos (aunque luego no los uséis todos)
-- No podéis grabar a los/as colaboradores/as mientras hablan, tomad notas 
-- Si queréis hacer alguna toma en la que salgan ellos/as, por ejemplo presentándose, podéis preguntar si les apetece, pedirles permiso y hacer la toma en algún momento de pausa 
-- Si alguno/ de vosotros/as no quiere salir en ningún video (puesto que luego serán colgados en internet), que avise a todo el grupo.
 
 En [este](https://github.com/aprendiendo-cosas/A_video_gesteco/raw/main/biblio/Manual-basico-de-video-cientifico_Ago.pdf) documento se describe con detalle cómo elaborar un vídeo de divulgación científica. 
 
-Por último, a modo de inspiración,  podéis ver a continuación los vídeos que hicieron vuestros compañeros del curso pasado. Dichos vídeos tenían una estructura diferente, así que no toméis el contenido como patrón. Se trata solo de que veais ejemplos de material parecido.
+A modo de inspiración,  podéis ver a continuación los vídeos que hicieron vuestros compañeros del curso pasado. Dichos vídeos tenían una estructura diferente, así que no toméis el contenido como patrón. Se trata solo de que veais ejemplos de material parecido.
 
 <iframe width="560" height="515" src="https://www.youtube.com/embed/8k0O-M6jdN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -89,6 +86,15 @@ Por último, a modo de inspiración,  podéis ver a continuación los vídeos qu
 
 <iframe width="560" height="515" src="https://www.youtube.com/embed/b0yOID741qg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+Y para finalizar, unos consejos para las tomas de video:
+
+- Utilizar la cámara siempre en horizontal
+- Evitar el ruido de fondo, cuidado sobre todo con el viento
+- Hablar lento y claro
+- Apoyar la cámara en firme, evitar temblores
+- Aprovechad cada parada para grabar recursos a diferentes planos (aunque luego no los uséis todos)
+- Si alguno/ de vosotros/as no quiere salir en ningún video (puesto que luego serán colgados en internet), que avise a todo el grupo.
+
 
 
 ## Secuencia de acciones propuestas y cronograma
@@ -98,10 +104,13 @@ Para que el trabajo de los equipos fluya adecuadamente es necesario que nos orga
 + Configuración del equipo. **Fecha límite 14/10/2023.** *Se encargan los estudiantes*.
 + Asignación de un tema a cada equipo. **Fecha límite 16/10/2023.** *Se encarga Curro.*
 + Creación de un equipo en Microsoft Teams con todos los miembros del equipo y con el profesor (bv2bogaf@uco.es). **Fecha límite 19/10/2023.** *Se encargan los estudiantes.*
-+ Primera búsqueda preliminar de información. **Fecha límite 19/10/2023**. *Se encargan los estudiantes.*
++ Primera búsqueda preliminar de información. **Fecha límite 19/10/2023**. *Se encargan los estudiantes.* Esta primera fase implica lo se suele llamar "lluvia de ideas". Os sugiero que uséis mapas mentales o cualquier otra herramienta para anotar las ideas que se os ocurran. Luego iremos "podando" el mapa mental para que nos quede un tema abordable e interesante con el que trabajar.
 
-+ Primera reunión para definir objetivos y lluvia de ideas. ***Se hace en sesión de prácticas el día 19/10/2023 con el apoyo del profesor.***
-+ Primera propuesta de estructura del vídeo. Se puede describir en un texto (a modo de "escaleta") o bien oralmente. **Fecha límite 27/10/2023**. *Se encargan los estudiantes*.
++ Primera reunión para definir objetivos y lluvia de ideas. ***Se hace en sesión de prácticas el día 19/10/2023 con el apoyo del profesor.*** En esta sesión abordamos los siguientes temas:
+  + Cónfiguración de los Equipos dentro de Microsoft Teams.
+  + Hemos hablado de cómo organizar los archivos dentro de las carpetas de OneDrive y de cómo sincronizar el contenido de dichas carpetas entre los ordenadores y la nube. 
+
++ Primera propuesta de estructura del vídeo. Se puede describir en un texto corto (a modo de "escaleta") o bien oralmente. **Fecha límite 27/10/2023**. *Se encargan los estudiantes*. Para llegar a este punto espero una discusión efectiva por el chat de Teams.
 + Salida a Cardeña. **2-4 de noviembre**
 + Fase de trabajo de los equipos con asesoramiento a demanda por parte del profesor. **Hasta 14/11/2023. Ese día habrá una sesión práctica presencial para aclarar dudas y presentar resultados parciales**. *Los estudiantes con el apoyo del profesor*.
 
@@ -125,7 +134,7 @@ Antes de la fecha final indicada más arriba, una persona de cada grupo deberá 
 
 ## Rúbrica que se usará para calificar el vídeo presentado
 
-Para calificar el desempeño de los grupos de estudiantes se usarán los siguientes criterios. Todos los estudiantes de cada equipo tendrán la misma calificación salvo situación excepcional (ej. explicitación de gran simetría en las contribuciones de los estudiantes). Cada criterio consta de una serie de niveles que describen su grado de satisfacción:
+Para calificar el desempeño de los grupos de estudiantes se usarán los siguientes criterios. Son criterios flexibles que podemos ir modificando conforme vayamos trabajando. Todos los estudiantes de cada equipo tendrán la misma calificación salvo situación excepcional (ej. explicitación de gran simetría en las contribuciones de los estudiantes). Cada criterio consta de una serie de niveles que describen su grado de satisfacción:
 
 + **Relación de los métodos de gestión descritos con la ciencia de la ecología (25% de la nota). **Se refiere a la medida en la que el vídeo incorpora los conceptos ecológicos que sustentan el tema en cuestión. Ej. sucesión ecológica, resiliencia, etc.
   + No hay ningún concepto ecológico o los que están no se justifican adecuadamente (0 puntos)
